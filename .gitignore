@@ -51,3 +51,7 @@ runs/
 # Temporary
 *.tmp
 *.temp
+
+# Presentations / rendered docs
+*.html
+*.pptx
