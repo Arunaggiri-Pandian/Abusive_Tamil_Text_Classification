@@ -1,0 +1,16 @@
+{
+    "model_name": "google/muril-base-cased",
+    "max_length": 128,
+    "batch_size": 8,
+    "gradient_accumulation_steps": 2,
+    "epochs": 50,
+    "learning_rate": 2e-5,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "focal_gamma": 1.0,
+    "patience": 10,
+    "use_augmented": false,
+    "output_dir": "outputs/models/muril_tuned_ga",
+    "seed": 42,
+    "description": "MuRIL tuned + gradient accumulation (effective batch=16, 2x steps)"
+}
