@@ -1,7 +1,7 @@
 # Abusive Tamil Text Detection - CHMOD_777
 
 **DravidianLangTech@ACL 2026 Shared Task**
-- **Competition:** [Codabench #11638](https://www.codabench.org/competitions/11638/)
+- **Competition:** [Codabench #11326](https://www.codabench.org/competitions/11326/)
 - **Team:** **CHMOD_777**
   - Arunaggiri Pandian Karunanidhi (Micron Technology)
   - Prabalakshmi Arumugam (Boise State University)
