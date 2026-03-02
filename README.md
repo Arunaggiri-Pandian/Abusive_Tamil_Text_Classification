@@ -112,3 +112,5 @@ python src/batch_inference.py \
 | Loss function | Focal Loss (gamma=2.0) |
 | Epochs | 50 (early stopping) |
 | Patience | 10 epochs |
+
+<p align="center">Author: Arunaggiri Pandian Karunanidhi</p>
