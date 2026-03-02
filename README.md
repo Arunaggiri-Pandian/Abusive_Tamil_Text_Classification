@@ -109,29 +109,8 @@ python src/batch_inference.py \
 | Epochs | 50 (early stopping) |
 | Patience | 10 epochs |
 
-## Hardware
-
-Experiments conducted on:
-- NVIDIA H100 80GB GPU
-- BF16 mixed precision
-
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{chmod777-abusive-dravidianlt2026,
-    title = {CHMOD_777 at DravidianLangTech@ACL 2026: MuRIL-Based Detection of Abusive Tamil Text Targeting Women on Social Media},
-    author = {Team CHMOD_777},
-    booktitle = {Proceedings of the DravidianLangTech Workshop at ACL 2026},
-    year = {2026}
-}
-```
-
-## License
-
-MIT License
-
 ## Team
 
 **CHMOD_777**
+- Arunaggiri Pandian Karunanidhi (Micron Technology)
+- Prabalakshmi Arumugam (Boise State University)
