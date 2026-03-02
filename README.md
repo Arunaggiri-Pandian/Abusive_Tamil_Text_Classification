@@ -1,6 +1,10 @@
 # Abusive Tamil Text Detection - CHMOD_777
 
 **DravidianLangTech@ACL 2026 Shared Task**
+- **Competition:** [Codabench #11638](https://www.codabench.org/competitions/11638/)
+- **Team:** **CHMOD_777**
+  - Arunaggiri Pandian Karunanidhi (Micron Technology)
+  - Prabalakshmi Arumugam (Boise State University)
 
 This repository contains our code for detecting abusive Tamil text targeting women on social media.
 
@@ -108,9 +112,3 @@ python src/batch_inference.py \
 | Loss function | Focal Loss (gamma=2.0) |
 | Epochs | 50 (early stopping) |
 | Patience | 10 epochs |
-
-## Team
-
-**CHMOD_777**
-- Arunaggiri Pandian Karunanidhi (Micron Technology)
-- Prabalakshmi Arumugam (Boise State University)
